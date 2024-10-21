@@ -7,10 +7,10 @@ int main()
   int u;
   int v;
 
-    printf("Podaj pierwsz¹ liczbê:");
+    printf("Podaj pierwszÂ¹ liczbÃª:");
     scanf("%d", &u);
 
-    printf("Podaj drug¹ liczbê:");
+    printf("Podaj drugÂ¹ liczbÃª:");
     scanf("%d", &v);
 
     int k=0;
